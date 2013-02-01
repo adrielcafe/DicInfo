@@ -1,0 +1,19 @@
+{
+	"version": "1.0",
+	"name": "DicInfo",
+	"description": "Dicionário de Informática",
+	"launch_path": "/apps/dicinfo",
+	"appcache_path": "/apps/dicinfo/cache.manifest",
+	"installs_allowed_from": ["*"],
+	"default_locale": "pt",
+	"icons": {
+		"32": "/apps/dicinfo/images/icon-32.png",
+		"64": "/apps/dicinfo/images/icon-64.png",
+		"128": "/apps/dicinfo/images/icon-128.png",
+		"256": "/apps/dicinfo/images/icon-256.png"
+	},
+	"developer": {
+		"name": "Adriel Café",
+		"url": "http://adrielcafe.com"
+	}
+}

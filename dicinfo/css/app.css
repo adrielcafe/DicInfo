@@ -1,0 +1,50 @@
+.ui-dialog .ui-header a.ui-btn-left[data-icon=delete] {
+	display: none;
+}
+
+.ui-fixed-hidden {
+	position: fixed;
+}
+
+.align-center {
+	text-align: center;
+}
+
+#pageHome {
+	background: url('../images/icon-256.png') no-repeat center fixed;
+}
+
+#termTitle {
+	margin-top: 0;
+}
+
+#dialogInfo h3 {
+	text-align: center;
+}
+
+#pageAbout hr {
+	clear: both;
+}
+
+#pageAbout h1 {
+	font-size: 350%;
+	text-align: center;
+	margin: 0;
+}
+
+#pageAbout h4 {
+	font-size: 96%;
+	text-align: center;
+	margin: -5px 0 0 0;
+}
+
+.about-desc img {
+	padding-right: 10px;
+	float: left;
+}
+
+.about-desc div {
+	padding-top: 14px;
+	font-size: 18px;
+	font-weight: bold;
+}
