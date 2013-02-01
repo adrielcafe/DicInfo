@@ -17,7 +17,7 @@ Onde encontrar?
 ---------------
 * App
   * http://adrielcafe.com/apps/dicinfo/
-* Firefox Marketplace (Está em fase de análise a quase 2 semanas)
+* Firefox Marketplace 
   * http://marketplace.firefox.com/app/dicinfo/ 
 * Facebook App
   * http://apps.facebook.com/dicinfo/
